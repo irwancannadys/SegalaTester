@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SegalaTester</string>
+    <string name="tester">Please wait...\nGenerating Inspection Form...</string>
+    <string name="tester2">please wait..generating inspection form...</string>
+    <string name="toast">proses upload</string>
+    <string name="title_activity_get_intent">GetIntent</string>
+</resources>
